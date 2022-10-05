@@ -27,7 +27,7 @@
   "devDependencies": {
     "@angular-devkit/build-angular": "^0.803.21",
     "@angular-devkit/build-ng-packagr": "~0.801.3",
-    "@angular/cli": "~8.1.1",
+    "@angular/cli": "~14.2.4",
     "@angular/compiler-cli": "~8.1.1",
     "@angular/language-service": "~8.1.1",
     "@types/jasmine": "~3.3.8",
@@ -41,7 +41,7 @@
     "karma-coverage-istanbul-reporter": "~2.0.1",
     "karma-jasmine": "~2.0.1",
     "karma-jasmine-html-reporter": "^1.4.0",
-    "ng-packagr": "^5.1.0",
+    "ng-packagr": "^14.2.1",
     "protractor": "~5.4.0",
     "ts-node": "~7.0.0",
     "tsickle": "^0.35.0",
